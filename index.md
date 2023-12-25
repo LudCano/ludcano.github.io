@@ -2,8 +2,8 @@
 
 ## Ludving Cano
 
-Im finishing my major in Physics at Universidad Mayor de San Andrés (UMSA), in La Paz, Bolivia.
 ---
+Im finishing my major in Physics at Universidad Mayor de San Andrés (UMSA), in La Paz, Bolivia.
 
 ### Category Name 1 
 
