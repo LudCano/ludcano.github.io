@@ -4,7 +4,7 @@ During my major I worked mostly on astronomy research and outreach, but on my la
 ## Astronomy
 Some of my projects on astronomy are:
 ### Undergraduate Thesis:
-[Structure and Kinematics of a Jet -  Accretion Disk System](/sample_page)
+[Structure and Kinematics of a Jet -  Accretion Disk System](/thesis)
 <br>
 We studied waters masers around a low-mass Young Stellar Object (Class 0 - I).
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
