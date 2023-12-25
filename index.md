@@ -12,9 +12,10 @@ We studied waters masers around a low-mass Young Stellar Object (Class 0 - I).
 ---
 ## Atmospheric Physics
 ### LIDAR ANALYSIS LA PAZ
-I've been developing the data analysis code for the LIDAR instrument located at the UMSA campus.
 [LIDAR ANALYSIS LA PAZ](/lidar)
-
+<br>
+I've been developing the data analysis code for the LIDAR instrument located at the UMSA campus.
+<img src="images/lidar.png?raw=true"/>
 
 
 [Project 2 Title](/pdf/sample_presentation.pdf)
