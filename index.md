@@ -5,6 +5,7 @@ During my major I worked mostly on astronomy research and outreach, but on my la
 Some of my projects on astronomy are:
 #### Undergraduate Thesis:
 [Structure and Kinematics of a Jet -  Accretion Disk System](/sample_page)
+For my undergraduate thesis, I worked with <a href="https://scholar.google.com/citations?user=0m8ORQ0AAAAJ&hl=es&oi=ao">G.N. Ortiz-Leon</a> to study the behaviour of water masers around two YSO (Young Stellar Objects): CARMA 6 & CARMA 7. Using observations with the 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
