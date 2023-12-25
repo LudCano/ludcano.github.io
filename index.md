@@ -7,7 +7,7 @@ Some of my projects on astronomy are:
 [Structure and Kinematics of a Jet -  Accretion Disk System](/thesis)
 <br>
 We studied waters masers around a low-mass Young Stellar Object (Class 0 - I).
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/mapCARMA6.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
