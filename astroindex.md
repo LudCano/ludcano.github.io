@@ -10,4 +10,4 @@ We studied waters masers around a low-mass Young Stellar Object (Class 0 - I).
 [More about this project](/rbfpaper)
 <br>
 This was my first peer-reviewed paper as first author, and is currently published in the Bolivian Journal of Physics <i>(Revista Boliviana de Física)</i>. On this paper I developed a simple (geometrical) model to approximate the North Galactic Pole using pairs of stars that meet certain requirements. 
-<img src="images/paperfig.png?raw=true"/>
+<img src="images/paper_fig.png?raw=true"/>
