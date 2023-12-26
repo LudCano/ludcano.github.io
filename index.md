@@ -3,14 +3,15 @@ During my major I worked mostly on astronomy research and outreach, but on my la
 
 ## Astronomy
 Some of my projects on astronomy are:
-### Undergraduate Thesis:
-[Structure and Kinematics of a Jet -  Accretion Disk System](/thesis)
-<br>
-We studied waters masers around a low-mass Young Stellar Object (Class 0 - I).
-<img src="images/matrix.png?raw=true"/>
+
+[See all my astronomy projects and activities](/astroindex)
+
 
 ---
 ## Atmospheric Physics
+
+[See all my astronomy projects and activities](/atmosindex)
+
 ### LIDAR ANALYSIS LA PAZ
 [LIDAR ANALYSIS LA PAZ](/lidar)
 <br>
