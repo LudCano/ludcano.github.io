@@ -10,13 +10,7 @@ Some of my projects on astronomy are:
 ---
 ## Atmospheric Physics
 
-[See all my astronomy projects and activities](/atmosindex)
-
-### LIDAR ANALYSIS LA PAZ
-[LIDAR ANALYSIS LA PAZ](/lidar)
-<br>
-I've been developing the data analysis code for the LIDAR instrument located at the UMSA campus.
-<img src="images/lidar.png?raw=true"/>
+[See all my atmospheric physics projects and activities](/atmosindex)
 
 
 
