@@ -9,17 +9,17 @@ For this project I used the following tools:
 
 The water maser emission has a wavelength of 22.2GHz, but as we can get data from different wavelengths, if we detect the emission in a different channel, then using the Doppler effect we can assume that that certain emission has a different velocity (getting closer or further), and with that we can try to study (using the Disk Wind model) from which distance of the star does that emission got ejected from the disk. 
 
-<img src="images/matrix.png?raw=true"/>
+<img src="../images/matrix.png?raw=true"/>
 Detections of water masers on different velocity channels (rest velocity is 12.5km/s). Figure from CARMA 6 on epoch D.
 
-<img src="images/mapCARMA6.png?raw=true"/>
+<img src="../images/mapCARMA6.png?raw=true"/>
 All detections and its respective velocities, from here we can study the model and get an angular velocity, from which and assuming the conservation of angular momentum, we get the distance from the star from which these masers got ejected.
 
-<img src="images/spectra.png?raw=true"/>
+<img src="../images/spectra.png?raw=true"/>
 The integrated flux density from the observations, we can see that the brightness of the masers gets lower and lower as time passes.
 
 The paper can be read at:
 <br>
-[Article (English version)](/pdf/thesis_EN.pdf)
+[Article (English version)](/../pdf/thesis_EN.pdf)
 <br>
-[Article (Spanish version)](/pdf/thesis_ES.pdf)
+[Article (Spanish version)](/../pdf/thesis_ES.pdf)
