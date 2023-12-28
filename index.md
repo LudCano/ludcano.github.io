@@ -6,7 +6,7 @@ During my major I worked mostly on Astronomy, doing some research and outreach.
 <br>
 [See all my astronomy projects and activities](/astroindex)
  - [Undegraduate thesis](/astro/thesis)
- - [First peer-reviewed paper](/astro/paper)
+ - [First peer-reviewed paper](/astro/rbfpaper)
  - [Astronomy Club](/astro/club)
  - [Bolivian Asteroid Campaign](/astro/campaign)
 
