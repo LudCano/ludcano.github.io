@@ -6,11 +6,16 @@
 We studied waters masers around a low-mass Young Stellar Object (Class 0 - I).
 <img src="images/matrix.png?raw=true"/>
 
-## Geometrical Approximation of the North Galactic Pole by Means of Stars From a Galactic Disk
+## Geometrical Approximation of the North Galactic Pole using Stars From a Galactic Disk
 [More about this project](/astro/rbfpaper)
 <br>
 This was my first peer-reviewed paper as first author, and is currently published in the Bolivian Journal of Physics <i>(Revista Boliviana de Física)</i>. On this paper I developed a simple (geometrical) model to approximate the North Galactic Pole using pairs of stars that meet certain requirements. 
 <img src="images/paper_fig.png?raw=true"/>
 
 ## Astronomy club activities
+[More about this project](/astro/club)
 Since 2022 I manage my faculty's Astronomy Club, currently we have around 40 members (with 20 of them active). We've participated in different activities like fairs and we also take part in the organization of different courses, seminars or even Hackathons. The club is managed by the faculty's planetarium <a href="http://planetario.umsa.bo">Planetario Max Schreier</a>
+
+## Bolivian Asteroid Search Campaign (ABASC)
+[More about this project](/astro/campaign)
+On this project, Bolivian students can work on real astronomy data (from Hawaii telescopes), to search for telescopes. This educational project was led by me from 2018 to 2023.
