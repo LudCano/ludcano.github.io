@@ -2,10 +2,13 @@ I'm finishing my major in Physics at Universidad Mayor de San Andrés (UMSA), in
 During my major I worked mostly on astronomy research and outreach, but on my last couple of years I also got interested in AtmosPhys and I had the chance to work on the LIDAR instrument located at my University Campus, mostly working on the code for the data analysis.
 
 ## Astronomy
-Some of my projects on astronomy are:
-
+During my major I worked mostly on Astronomy, doing some research and outreach.
+<br>
 [See all my astronomy projects and activities](/astroindex)
-
+ - [Undegraduate thesis](/astro/thesis)
+ - [First peer-reviewed paper](/astro/paper)
+ - [Astronomy Club](/astro/club)
+ - [Bolivian Asteroid Campaign](/astro/campaign)
 
 ---
 ## Atmospheric Physics
