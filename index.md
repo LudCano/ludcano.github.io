@@ -6,7 +6,6 @@ During my major, I worked mostly on astronomy research and outreach. Still, on t
 [See all my atmospheric physics projects and activities](/atmosindex)
  - [LIDAR Analysis Software](/atmos/lidar)
 
-<div class="gh-card gh-medium" data-repo="LudCano/inti_uv"></div>
 ---
 
 ## Astronomy
