@@ -1,5 +1,11 @@
-I did my major in Physucs at Universidad Mayor de San Andrés (UMSA), in La Paz, Bolivia. My main interests are Atmospheric Physics and (Radio) Astronomy, on which I did my undergraduate thesis. 
-During my major I worked mostly on astronomy research and outreach, but on my last couple of years I also got interested in AtmosPhys and I had the chance to work on the LIDAR instrument located at my University Campus, mostly working on the code for the data analysis.
+I studied Physics at Universidad Mayor de San Andrés (UMSA), in La Paz, Bolivia. My main interests are Atmospheric Physics and (Radio) Astronomy, on which I did my undergraduate thesis. 
+During my major, I worked mostly on astronomy research and outreach. Still, on the last couple of years I also got interested in AtmosPhys and I had the chance to work with the [Laboratory for Atmospheric Physics at UMSA](http://www.atmosfera.umsa.bo/wp/) that manages the [Chacaltaya Global Atmosphere Watch (GAW) Station]. I also had the chance to work with the LIDAR instrument located at the University Campus, mostly working on the code for the data analysis.
+
+
+## Atmospheric Physics
+[See all my atmospheric physics projects and activities](/atmosindex)
+
+---
 
 ## Astronomy
 During my major I worked mostly on Astronomy, doing some research and outreach.
@@ -9,11 +15,4 @@ During my major I worked mostly on Astronomy, doing some research and outreach.
  - [First peer-reviewed paper](/astro/rbfpaper)
  - [Astronomy Club](/astro/club)
  - [Bolivian Asteroid Campaign](/astro/campaign)
-
----
-## Atmospheric Physics
-
-[See all my atmospheric physics projects and activities](/atmosindex)
-
-
 
