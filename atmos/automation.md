@@ -32,5 +32,6 @@ The plot generated:
 
 ![Example of plot](images/pluvio_example.png)
 
+---
 [^1]: Read the [Copernicus Atmosphere Monitoring Service report on wildfires](https://atmosphere.copernicus.eu/cams-global-wildfires-review-2024-harsh-year-americas)
 [^2]: Github Actions lets you schedule the times for the code to run, nonetheless this is almost never accomplished, sometimes it can stop working for some hours or not follow the scheduled times.
