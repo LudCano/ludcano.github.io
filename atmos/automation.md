@@ -3,6 +3,7 @@
 [Back to Atmospheric Physics Projects](../atmosindex)
 
 These two projects are pretty similar, both use [Github Actions](https://github.com/features/actions) for generating plots and retrieving data from different sources. The advantage of using this tool is that we don't have to have a computer running all the time, and, compared to downloading into a local file, downloading data from the cloud to the cloud (in this case the Github repo) is way quicker (oh, and I forget to mention it's free?).
+
 ---
 ## AOD Plotting
 In 2023 and 2024, Bolivia saw an important increase in wildfires[^1], for several days, cities even in the Andes a decrease in air quality, this tool was developed for monitoring the AOD for Bolivia (closely related to emissions from the burning season).
@@ -17,6 +18,7 @@ All these plots must be saved in the same repository and the time series for fut
 
 Below an example:
 ![Example for this project running](images/example_aod_plotting.png)
+
 ---
 ## Pluviometry Plotting
 Check out the Github Repo  
