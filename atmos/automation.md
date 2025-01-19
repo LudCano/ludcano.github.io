@@ -2,7 +2,7 @@
 These two projects are pretty similar, both use [Github Actions](https://github.com/features/actions) for generating plots and retrieving data from different sources.
 
 ## AOD Plotting
-Check out the Github Repo
+Check out the Github Repo  
 [![LudCano/aod_plotting - GitHub](https://gh-card.dev/repos/LudCano/aod_plotting.svg)](https://github.com/LudCano/aod_plotting)
 
 **<span style="color: green;">[Check this project running live](https://ludcano.github.io/aod_plotting/)</span>**
