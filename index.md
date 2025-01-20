@@ -6,6 +6,7 @@ During my major, I worked mostly on astronomy research and outreach. Still, on t
 [See all my atmospheric physics projects and activities](/atmosindex)
  - [LIDAR Analysis Software](/atmos/lidar)
  - [Automation projects](/atmos/automation)
+ - [Calibration of Pyranometers](/atmos/calibrationuv)
  - [Python for Data Analysis training](/atmos/training)
 
 
