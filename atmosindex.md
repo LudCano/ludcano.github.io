@@ -15,6 +15,6 @@ These projects generate automatic plots using GitHub Actions, one is focused on 
 <img src="atmos/images/pluvio_example.png" alt="Alt Text" width="150">
 
 ## 3. PYTHON TRAINING FOR DATA ANALYSIS [Educational] (Winter 2024)
-[More about the projects](/atmos/training)
+[More about the project](/atmos/training)
 <br>
 In 2024, I taught Python for Data Analysis to undergraduate students, starting with fundamental Python concepts and progressing to creating complex plots and customizing axes in Matplotlib.
