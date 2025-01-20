@@ -2,7 +2,7 @@
 
 [Back to Atmospheric Physics Projects](../atmosindex)
 
-These two projects are pretty similar, both use [Github Actions](https://github.com/features/actions) for generating plots and retrieving data from different sources. The advantage of using this tool is that we don't have to have a computer running all the time, and, compared to downloading into a local file, downloading data from the cloud to the cloud (in this case the Github repo) is way quicker (oh, and I forget to mention it's free?).
+These three projects are pretty similar, all of them use [Github Actions](https://github.com/features/actions) for generating plots and retrieving data from different sources. The advantages of using this tool are: 1) We don't have to have a computer running all the time. 2. Compared to downloading into a local file, downloading data from the cloud to the cloud (in this case the Github repo) is way quicker. And 3. It's free! (with limits).
 
 ---
 ## AOD Plotting
