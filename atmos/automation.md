@@ -34,6 +34,24 @@ The plot generated:
 
 ![Example of plot](images/pluvio_example.png)
 
+
+---
+## UV Index Plotting
+Check out the Github Repo  
+[![LudCano/inti_uv - GitHub](https://gh-card.dev/repos/LudCano/inti_uv.svg)](https://github.com/LudCano/inti_uv)
+
+**<span style="color: green;">[Check this project running live](https://sites.google.com/chacaltaya.edu.bo/iuv)</span>**
+
+
+La Paz again! At an altitude of approximately 3,600 meters above sea level, we face challenges with UV radiation (check out [this interview](https://la-razon.com/lr-article/rayos-ultravioleta-llegan-a-un-indice-critico-en-la-paz/) with a researcher from the lab (in Spanish)), as the UV index can exceed 15. In such cases, it’s crucial for the public to take precautions and follow recommended guidelines[^3]. This code retrieves UV index data from an API provided by the lab technician and generates a user-friendly UV plot. While this page isn’t designed for scientific purposes, it serves as an outreach tool to raise awareness. This code also runs automatically 4 times per hour [^2].
+
+This project is intended to grow, probably using satellite images and generate the same plot for different cities?. Contact me if you have suggestions! :sweat_smile:
+
+The plot generated:
+
+![Example of plot](images/inti_example.png)
+
 ---
 [^1]: Read the [Copernicus Atmosphere Monitoring Service report on wildfires](https://atmosphere.copernicus.eu/cams-global-wildfires-review-2024-harsh-year-americas)
 [^2]: Github Actions lets you schedule the times for the code to run, nonetheless this is almost never accomplished, sometimes it can stop working for some hours or not follow the scheduled times.
+[^3]: For more information a good book for reference is [Radiación Ultravioleta en Bolivia (Spanish)](https://iris.paho.org/handle/10665.2/31072)
