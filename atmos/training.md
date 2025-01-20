@@ -1,4 +1,4 @@
-# Python Training for Data Analysis  
+# Python Training for Data Analysis 2024
 
 [Back to Atmospheric Physics Projects](../atmosindex)
 
@@ -10,7 +10,7 @@ The objective of the course was to teach students different techniques for data 
 
 This short training will be updated for 2025, the repository is free for using and I'm open for comments and suggestions to improve it!
 
-[![LudCano/aod_plotting - GitHub](https://gh-card.dev/repos/LudCano/aod_plotting.svg)](https://github.com/LudCano/aod_plotting)
+[![LudCano/LFA-python-short-course - GitHub](https://gh-card.dev/repos/LudCano/LFA-python-short-course.svg)](https://github.com/LudCano/LFA-python-short-course)
 
 **Sessions:**
 
