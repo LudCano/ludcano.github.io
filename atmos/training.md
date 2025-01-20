@@ -1,5 +1,7 @@
 # Python Training for Data Analysis  
 
+[Back to Atmospheric Physics Projects](../atmosindex)
+
 From April to June 2024 I had the chance to train undergraduate students in Data Analysis with Python, these 11 students then participated in the **2024 Student Field Campaign** led by [Dr. David Whiteman](https://profiles.howard.edu/david-whiteman) (for more information about the project, check out this blog). The training was given in English.
 
 After the campaign the students took the class "Meteorological Instrumentation I", for which I was a teaching assistant, for that semester we kept working with more data and techniques.
