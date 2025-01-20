@@ -16,7 +16,7 @@ These projects generate automatic plots using GitHub Actions, one is focused on 
 <img src="atmos/images/inti_example.png" alt="Alt Text" width="150">
 
 ## 3. CALIBRATION OF PYRANOMETERS (2024)
-[More about the projects](/atmos/calibrationuv)
+[More about this project](/atmos/calibrationuv)
 <br>
 Analysis of different pyranometers and do a calibration for these instruments combining a reference instrument and a numerical model.
 <img src="atmos/images/correlationpiranometers.png" alt="Alt Text" width="150">
