@@ -22,7 +22,7 @@ Below an example:
 ---
 ## Pluviometry Plotting
 Check out the Github Repo  
-[![LudCano/aod_plotting - GitHub](https://gh-card.dev/repos/LudCano/aod_plotting.svg)](https://github.com/LudCano/aod_plotting)
+[![LudCano/pluvio-plots - GitHub](https://gh-card.dev/repos/LudCano/pluvio-plots.svg)](https://github.com/LudCano/pluvio-plots)
 
 **<span style="color: green;">[Check this project running live]([https://ludcano.github.io/aod_plotting/](https://github.com/LudCano/pluvio-plots/blob/main/plot_all_cotacota.png?raw=true))</span>**
 
