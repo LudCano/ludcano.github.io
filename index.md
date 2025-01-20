@@ -7,6 +7,8 @@ During my major, I worked mostly on astronomy research and outreach. Still, on t
  - [LIDAR Analysis Software](/atmos/lidar)
  - [Automation projects](/atmos/automation)
  - [Python for Data Analysis training](/atmos/training)
+
+
 ---
 
 ## Astronomy
